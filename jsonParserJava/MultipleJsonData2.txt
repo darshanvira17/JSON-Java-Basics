@@ -1,0 +1,48 @@
+[{
+    "Brand": "Nissan",
+    "Model": "Sedan",
+    "Quantity": 3
+    }
+    ,
+    {
+    "Brand": "Toyota",
+    "Model": "XUV",
+    "Quantity": 1
+    }
+    ,
+    {
+    "Brand": "Nissan",
+    "Model": "XUV",
+    "Quantity": 2
+    }
+    ,
+    {
+    "Brand": "Nissan",
+    "Model": "Sedan",
+    "Quantity": 1
+    }
+    ,
+    {
+    "Brand": "Audi",
+    "Model": "Sedan",
+    "Quantity": 5
+    }
+    ,
+    {
+    "Brand": "Toyota",
+    "Model": "Sedan",
+    "Quantity": 3
+    }
+    ,
+    {
+    "Brand": "Nissan",
+    "Model": "Sedan",
+    "Quantity": 6
+    }
+    ,{
+    "Brand": "Audi",
+    "Model": "Hatchback",
+    "Quantity": 8
+    }
+   
+]
